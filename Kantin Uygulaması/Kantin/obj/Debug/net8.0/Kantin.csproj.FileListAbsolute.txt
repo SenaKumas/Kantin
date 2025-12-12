@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\bin\Debug\net8.0\Kantin.exe
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\bin\Debug\net8.0\Kantin.deps.json
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\bin\Debug\net8.0\Kantin.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\bin\Debug\net8.0\Kantin.dll
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\bin\Debug\net8.0\Kantin.pdb
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.dll
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\refint\Kantin.dll
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.pdb
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\Kantin.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Kantin Uygulaması\Kantin\obj\Debug\net8.0\ref\Kantin.dll
